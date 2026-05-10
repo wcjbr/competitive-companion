@@ -1,0 +1,31 @@
+{
+  "url": "https://www.acgo.cn/problemset/info/75512?homeworkId=11803&teamCode=1927633535785422848",
+  "parser": "ACGOProblemParser",
+  "result": {
+    "name": "T75512 撤硕管理员",
+    "group": "ACGO",
+    "url": "https://www.acgo.cn/problemset/info/75512?homeworkId=11803&teamCode=1927633535785422848",
+    "interactive": false,
+    "memoryLimit": 128,
+    "timeLimit": 2000,
+    "tests": [
+      {
+        "input": "4\n1 2 2 4\n",
+        "output": "8\n"
+      }
+    ],
+    "testType": "single",
+    "input": {
+      "type": "stdin"
+    },
+    "output": {
+      "type": "stdout"
+    },
+    "languages": {
+      "java": {
+        "mainClass": "Main",
+        "taskClass": "T75512"
+      }
+    }
+  }
+}
