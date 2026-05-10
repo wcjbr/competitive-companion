@@ -133,3 +133,5 @@ dist
 build-*/
 dist/
 firefox-tmp/
+*.crx
+*.pem
