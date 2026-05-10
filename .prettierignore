@@ -1,0 +1,5 @@
+tests/data/**/*.html
+build-chrome/**
+build-firefox/**
+build-test/**
+dist/**
